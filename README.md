@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at ITMO University, Software Engineering 2nd course<br>🌱 I’m currently learning DSA<br>💬 Ask me about Minecraft
+🔭 I’m currently studying at ITMO University, Software Engineering 3nd course<br>🌱 I’m currently learning .Net<br>💬 Ask me about Minecraft
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KitchiDioless&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <img src="https://i.imgur.com/MP4vaBC.gif" alt="cock" width="190" style="float: right;"><br/>
 <a href="https://www.gitanimals.org/">
